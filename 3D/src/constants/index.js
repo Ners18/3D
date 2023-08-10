@@ -2,7 +2,6 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
   dollar,
   Euro,
   yen,
@@ -36,6 +35,10 @@ export const navLinks = [
     id: "contact",
     title: "Bize Ulaşın",
   },
+  {
+    id:"calculator",
+    title:"Döviz Hesaplayıcı"
+  }
 ];
 
 let services = [
@@ -127,10 +130,10 @@ const technologies = [
 const experiences = [
   {
     title: "Musmer Exchange Nerdedir?",
-    company_name: "musmer",
+    company_name: "",
     icon: orangeup,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Mart 2013 - Nisan 2014",
     points: [
       "Kurtuluş Caddesi, Ozanköy,Lemar Yolu, Girne 99300.",
       
@@ -138,30 +141,30 @@ const experiences = [
   },
   {
     title: "Günce Döviz kurları Nelerdir",
-    company_name: "musmer",
+    company_name: "",
     icon: orangeupother,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Mayıs 2014 - Haziran 2014",
     points: [
       "Güncel Döviz Kurlarımıza isterseniz anasayfamızdan istersenizde Döviz sayfamızdan ulaşabilirsiniz",
     ],
   },
   {
     title: "Size Neden Güvenmeliyim ?",
-    company_name: "mumer",
+    company_name: "",
     icon: orangeup,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Kasım 2016 - Şubat 2017",
     points: [
       "Musmer Exchange, bir MUSMER LIMITED kuruluşudur. 10 yılı aşkın deneyimi ve iş tecrübesini yaptığı başarılar ve müşteri memnuniyetiyle birleştiren Musmer Limited güçlü sermayesi ve müşteri memnuniyeti ve gizliliğine en üst önemi vermektedir..", 
     ],
   },
   {
     title: "Güncel Kurlar ve Özel Teklifler için size nasıl ulaşabilirim ?",
-    company_name: "musmer",
+    company_name: "",
     icon: orangeupother,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Ağustos 2023 - Şimdiye",
     points: [
       "Bize İLETİŞİM sayfamızda bulunan telefon numaralarımızdan gerek Whatsapp gerek aram yolu ile gerek ise email adreslerimizden ulaşabilirsiniz.",
     ],
@@ -199,18 +202,18 @@ const projects = [
   {
     name: "Car Rent",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Musmer Exchange Personelimiz. Güler Yüzlü, Enerjik, Yardım Sever",
     tags: [
       {
-        name: "react",
+        name: "Hızlı",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Güvenilir",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Doğru",
         color: "pink-text-gradient",
       },
     ],
@@ -220,18 +223,18 @@ const projects = [
   {
     name: "Job IT",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Musmer Exchange Kurlarımız. Piyasadaki En Uygun, Sürekli Güncel",
     tags: [
       {
-        name: "react",
+        name: "Çalışkan",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Dürüst",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "Gerçek",
         color: "pink-text-gradient",
       },
     ],
@@ -241,18 +244,18 @@ const projects = [
   {
     name: "Trip Guide",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Musmer Exchange Güvenlik Gizliliğe Saygı Duyan, Güçlü Sermaye",
     tags: [
       {
-        name: "nextjs",
+        name: "Yükselen",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Stabil",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "En iyi oranlar",
         color: "pink-text-gradient",
       },
     ],
