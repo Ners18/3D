@@ -4,10 +4,10 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import dimension from "./tech/979.gif";
-import dolargif from "./tech/971.gif";
-import Poundgif from "./tech/983.gif";
 
+import Poundgif from "./tech/poundSpinning.gif";
+import dolargif from "./tech/dollarSpinning.gif";
+import dimension from "./tech/euroSpinning.gif";
 import threejs from "./tech/threejs.svg";
 
 

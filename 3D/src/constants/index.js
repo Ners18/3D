@@ -202,7 +202,7 @@ const projects = [
   {
     name: "Car Rent",
     description:
-      "Musmer Exchange Personelimiz. Güler Yüzlü, Enerjik, Yardım Sever",
+      "Siz değerli müşterilerimiz için döviz piyasasındaki en uygun kurları buluyor ve işlem yapıyoruz",
     tags: [
       {
         name: "Hızlı",
@@ -223,7 +223,7 @@ const projects = [
   {
     name: "Job IT",
     description:
-      "Musmer Exchange Kurlarımız. Piyasadaki En Uygun, Sürekli Güncel",
+      "Güvenilir ve güler yüzlü hizmet ile sizin memnuniyetiniz için çalışıyoruz.",
     tags: [
       {
         name: "Çalışkan",
@@ -244,7 +244,7 @@ const projects = [
   {
     name: "Trip Guide",
     description:
-      "Musmer Exchange Güvenlik Gizliliğe Saygı Duyan, Güçlü Sermaye",
+      "Büromuza giren her müşterimiz bizim için değerlidir. Müşterilerimizin mutluluğu için hizmetinizdeyiz.",
     tags: [
       {
         name: "Yükselen",
